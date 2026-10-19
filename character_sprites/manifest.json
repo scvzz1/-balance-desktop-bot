@@ -1,0 +1,26 @@
+{
+  "pastel_cat": {
+    "name": "蜜桃猫耳",
+    "frames": 30
+  },
+  "pastel_mage": {
+    "name": "星愿法师",
+    "frames": 30
+  },
+  "pastel_cyber": {
+    "name": "霓虹猫耳",
+    "frames": 30
+  },
+  "pastel_miko": {
+    "name": "樱铃巫女",
+    "frames": 30
+  },
+  "pastel_hat": {
+    "name": "晴日花语",
+    "frames": 30
+  },
+  "pastel_witch": {
+    "name": "暮星魔女",
+    "frames": 30
+  }
+}
